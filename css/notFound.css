@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: blueviolet;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: crimson;
+}
